@@ -7,7 +7,7 @@ Here is the best roadmap for you to become a Smart Contract Auditor! If you find
 ## 1. Blockchain & Ethereum Basics:
 
 #### ***Blockchain :***
-- Blockchain Technology Explained
+- [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)
 - Blockchain Cryptography
 
 #### ***Ethereum:***
