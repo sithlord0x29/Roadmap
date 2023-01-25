@@ -19,12 +19,12 @@ Here is the best roadmap for you to become a Smart Contract Auditor! If you find
 ## 2. Solidity Fundamentals:
 
 - Solidity Documentations
-- smartcontract.engineer
+- [smartcontract.engineer](https://www.smartcontract.engineer/)
 - Cryptozombies
-- Solidity-by-example
+- [Solidity-by-example](https://solidity-by-example.org/)
 - ***Secureum:***
-  - Secureum Solidity 101
-  - Secureum Solidity 201
+  - [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
+  - [Secureum Solidity 201](https://secureum.substack.com/p/solidity-201?s=r)
 - Solidity Gas Optimizations List
 </ol>
 
