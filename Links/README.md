@@ -30,10 +30,10 @@ Here is the best roadmap for you to become a Smart Contract Auditor! If you find
 
 ## 3. Testing and Debugging Frameworks
 
-- Hardhat
-- Brownie
-- Foundry
-- Tenderly
+- [Hardhat](https://hardhat.org/hardhat-runner/docs/other-guides/waffle-testing)
+- [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
+- [Foundry](https://github.com/foundry-rs/foundry)
+- [Tenderly](https://tenderly.co/)
 
 ## 4. Commonly used Libraries and Token Standards:
 
