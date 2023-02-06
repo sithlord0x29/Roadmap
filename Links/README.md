@@ -22,6 +22,7 @@ Here is the best roadmap for you to become a Smart Contract Auditor! If you find
 - [smartcontract.engineer](https://www.smartcontract.engineer/)
 - Cryptozombies
 - [Solidity-by-example](https://solidity-by-example.org/)
+- [Uniswap v2](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
 - ***Secureum:***
   - [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
   - [Secureum Solidity 201](https://secureum.substack.com/p/solidity-201?s=r)
