@@ -40,7 +40,7 @@ Here is the best roadmap for you to become a Smart Contract Auditor! If you find
 
 #### ERC Token Standards:
 
-- ERC 20
+- [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 - ERC 721 (NFT)
 - ERC 777
 - ERC 1155
