@@ -51,10 +51,10 @@ Here is the best roadmap for you to become a Smart Contract Auditor! If you find
 
 #### Upgradable Contracts:
 
-- Upgradeable Contracts - Smartcontract Programmer
-- Risks of Upgradeable Contracts - Smartcontract Programmer
-- Different Proxy Patterns - EIPs 897, 1822, 1967, 1538, 2535
-- Openzeppelin Proxy docs
+- [Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=JgSj7IiE4jA)
+- [Risks of Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=XmxfB5JOt1Q)
+- [Different Proxy Patterns - EIPs 897, 1822, 1967, 1538, 2535](https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/)
+- [Openzeppelin Proxy docs](https://docs.openzeppelin.com/contracts/4.x/api/proxy)
 
 ## 5. Solidity Security Standard & Best Practice:
 
