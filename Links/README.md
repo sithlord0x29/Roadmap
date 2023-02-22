@@ -83,8 +83,6 @@ Here is the best roadmap for you to become a Smart Contract Auditor! If you find
 - Damn Vulnerable DeFi
 - unhackedctf
 - 100+ CTF blockchain challenges: https://github.com/minaminao/ctf-blockchain
-[ERC 2626](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
-[ERC 2626](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
 
 ## 8. Finance and DeFi:
 
