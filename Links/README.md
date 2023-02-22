@@ -46,8 +46,6 @@ Here is the best roadmap for you to become a Smart Contract Auditor! If you find
 - [ERC 721 (NFT)](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
 - [ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)
 - [ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
-- [ERC 4626](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
-- [ERC 2981](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
 - ERC 4626
 - ERC 2981
 
